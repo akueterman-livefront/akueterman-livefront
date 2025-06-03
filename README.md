@@ -1,4 +1,6 @@
-## Hi there 👋
+### A.J. Kueterman
+**Android Dev @ [Livefront](https://livefront.com)**
+akueterman@livefront.com
 
 <!--
 **akueterman-livefront/akueterman-livefront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
